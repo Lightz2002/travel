@@ -1,0 +1,15 @@
+.same-height {
+  height: 172px;
+}
+
+.object-cover {
+  object-fit: cover;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.fs-7 {
+  font-size: 12px;
+}
